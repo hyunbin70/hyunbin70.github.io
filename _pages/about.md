@@ -104,7 +104,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, **Oh Hyun-Bin**, JangHoon Ju, Suek
 
 [Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
 
-Kim Ji-Yeon, Oh Hyun-Bin, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
+Kim Ji-Yeon, **Oh Hyun-Bin**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 
 [**Project**](https://jiyeon-k1m.github.io/uni-dvps)
 - We present Uni-DVPS, a unified model for Depth-aware Video Panoptic Segmentation (DVPS).
@@ -114,12 +114,12 @@ Kim Ji-Yeon, Oh Hyun-Bin, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024* Best Paper Award, KRoC
-- *2023* Best Paper Award, IPIU
-- *2021* Summa Cum Laude, Chung-Ang University
-- *2021* Department Honors Scholarship, Chung-Ang University
-- *2018* Science Scholarship, Suwon Municipal Scholarship Foundation
-- *2017* Department Honors Scholarship, Chung-Ang University
+- *2024*: Best Paper Award, KRoC
+- *2023*: Best Paper Award, IPIU
+- *2021*: Summa Cum Laude, Chung-Ang University
+- *2021*: Department Honors Scholarship, Chung-Ang University
+- *2018*: Science Scholarship, Suwon Municipal Scholarship Foundation
+- *2017*: Department Honors Scholarship, Chung-Ang University
 
 # 📖 Educations
 - *2022.03 - Present*, Joint M.S. & Ph.D., Pohang University of Science and Technology (POSTECH), South Korea.
