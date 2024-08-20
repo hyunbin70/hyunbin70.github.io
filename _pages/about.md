@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at [AMILAB](https://ami.postech.ac.kr/) in Electrial Engineering at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh). I received my bechelor's degree in Physics from Chung-Ang University.
-
-My research interests are on multi-modal learning, especially within **audio-visual understanding and generation**.
+I am a Ph.D. student at [AMILAB](https://ami.postech.ac.kr/) in Electrial Engineering at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh). I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
+I work on research projects lies at the intersection of computer vision and machine learning, with a focus on modalities that contain temporal information, such as video and audio.
+My research interests are on multi-modal learning, especially within **audio-visual understanding and generation**, but not limited to.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
