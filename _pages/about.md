@@ -45,7 +45,7 @@ Kim Sung-Bin\*, **Oh Hyun-Bin\***, JungMok Lee, Arda Senocak, Joon Son Chung, Ta
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898)
@@ -62,7 +62,7 @@ Hyunwoo Ha\*, **Oh Hyun-Bin\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Lin
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/axial_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-based Axial Video Motion Magnification](https://arxiv.org/abs/2312.09551)
@@ -75,7 +75,7 @@ Kwon Byung-Ki, **Oh Hyun-Bin**, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/av_guidance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert](https://arxiv.org/abs/2407.01034)
@@ -87,7 +87,7 @@ Han EunGi\*, **Oh Hyun-Bin\***, Kim Sung-Bin, Corentin Nivelet Etcheberry, Sueky
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/multitalk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset](https://arxiv.org/abs/2406.14272)
@@ -99,7 +99,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, **Oh Hyun-Bin**, JangHoon Ju, Suek
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/Uni-DVPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
