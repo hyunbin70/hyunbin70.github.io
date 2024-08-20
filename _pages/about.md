@@ -32,7 +32,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 # 📝 Pre-print (*:equal contribution/co-first author)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/avh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Benchmark for Audio-Visual Large Language Models
