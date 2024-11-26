@@ -35,8 +35,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Speech-Driven 3D Talking Head Generation: New Definitions, Representation, 
-and Metrics *<span style="color: lightgray;">(under-review)</span>*
+Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and Metrics *<span style="color: gray;">(under-review)</span>*
 
 **Project** 
 - We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for accurate 3D talking face generation.
@@ -47,7 +46,7 @@ and Metrics *<span style="color: lightgray;">(under-review)</span>*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/avh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Benchmark for Audio-Visual Large Language Models *(under-review)*
+A Benchmark for Audio-Visual Large Language Models *<span style="color: gray;">(under-review)</span>*
 
 Kim Sung-Bin\*, **Oh Hyun-Bin\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh
 
@@ -60,7 +59,7 @@ Kim Sung-Bin\*, **Oh Hyun-Bin\***, JungMok Lee, Arda Senocak, Joon Son Chung, Ta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *(under-review)*
+[Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *<span style="color: gray;">(under-review)</span>*
 
 Hyunwoo Ha\*, **Oh Hyun-Bin\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh
 
@@ -139,11 +138,11 @@ Kim Ji-Yeon, **Oh Hyun-Bin**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun O
 - *2022.03 - Present*, Joint M.S. & Ph.D., Pohang University of Science and Technology (POSTECH), South Korea.
 - *2017.03 - 2021.08*, Undergraduate, Chung-Ang University.
 
-# Academic Services
+# 🫡 Academic Services
 - Conference Reviewer: ACCV
 - Journal Reviewer: IJCV
 
-# Teaching Experiences
+# 🧑‍🏫 Teaching Experiences
 - *2023*, NAVER Boostcamp AI Tech Computer Vision Track (5th, 6th)
 - *2022*, Introduction to Machine Learning (EECE454), POSTECH
 
