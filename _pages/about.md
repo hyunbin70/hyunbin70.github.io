@@ -28,7 +28,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 # 🔥 News
 - *2024.07*: One paper is accepted to **ECCV 2024**. 
 - *2024.06*: Two papers are accepted to **INTERSPEECH 2024**.
-- *2024.04*: One paper is accepted to **RA-L 2024**. This will be presented in **IROS 2024** (oral presentation).
+- *2024.04*: One paper is accepted to **RA-L 2024**. This will be presented in **IROS 2024** <span style="color: red;">(oral presentation)</span>.
 
 # 📝 Pre-print (*:equal contribution/co-first author)
 
@@ -119,6 +119,7 @@ Kim Ji-Yeon, **Oh Hyun-Bin**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun O
 
 [**Project**](https://jiyeon-k1m.github.io/uni-dvps)
 - We present Uni-DVPS, a unified multi-task model for Depth-aware Video Panoptic Segmentation (DVPS).
+- <span style="color: red;">Oral presentation</span> at **IROS 2024**
 - Short version at **CVPRW 2023** ‘Vision-Centric Autonomous Driving (VCAD)’ Workshop.
 
 </div>
