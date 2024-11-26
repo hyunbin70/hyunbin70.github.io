@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at [AMILAB](https://ami.postech.ac.kr/) in Electrial Engineering at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh). I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
-I work on research projects lies at the intersection of computer vision and machine learning, with a focus on modalities that contain temporal information, such as video and audio.
+I work on research projects at the intersection of computer vision and machine learning, with a focus on modalities that contain temporal information, such as video and audio.
 
 My research interests are on multi-modal learning, especially within **audio-visual understanding and generation**, but not limited to.
 
@@ -32,15 +32,25 @@ My research interests are on multi-modal learning, especially within **audio-vis
 
 # 📝 Pre-print (*:equal contribution/co-first author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and Metrics (under-review)
+
+**Project** 
+- We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for accurate 3D talking face generation.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/avh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Benchmark for Audio-Visual Large Language Models
+A Benchmark for Audio-Visual Large Language Models (under-review)
 
 Kim Sung-Bin\*, **Oh Hyun-Bin\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh
 
-**Project** (to appear)
+**Project** 
 - We introduce a comprehensive benchmark specifically designed to evaluate the perception and comprehension capabilities of audio-visual LLMs.
 </div>
 </div>
@@ -49,11 +59,11 @@ Kim Sung-Bin\*, **Oh Hyun-Bin\***, JungMok Lee, Arda Senocak, Joon Son Chung, Ta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898)
+[Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) (under-review)
 
 Hyunwoo Ha\*, **Oh Hyun-Bin\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh
 
-**Project** (to appear)
+**Project**
 - We magnify invisible small motions, but in real-time.
 - Short version at **CVPRW 2023** ‘Vision-based InduStrial InspectiON’ Workshop.
 
@@ -84,7 +94,7 @@ Kwon Byung-Ki, **Oh Hyun-Bin**, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 Han EunGi\*, **Oh Hyun-Bin\***, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh
 
 [**Project**](https://3d-talking-head-avguide.github.io/)
-- We generate 3D facial animation speech-synchronized lip movements with audio-visual lip reading expert.
+- We generate speech-synchronized lip movements in 3D facial animation with audio-visual lip reading expert.
 </div>
 </div>
 
@@ -108,7 +118,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, **Oh Hyun-Bin**, JangHoon Ju, Suek
 Kim Ji-Yeon, **Oh Hyun-Bin**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 
 [**Project**](https://jiyeon-k1m.github.io/uni-dvps)
-- We present Uni-DVPS, a unified model for Depth-aware Video Panoptic Segmentation (DVPS).
+- We present Uni-DVPS, a unified multi-task model for Depth-aware Video Panoptic Segmentation (DVPS).
 </div>
 </div>
 
