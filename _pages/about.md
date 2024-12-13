@@ -136,8 +136,9 @@ Kim Ji-Yeon, **Oh Hyun-Bin**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun O
 - *2017*: Department Honors Scholarship, Chung-Ang University
 
 # 📖 Educations
-- *2022.03 - Present*, Joint M.S. & Ph.D., Pohang University of Science and Technology (POSTECH), South Korea.
-- *2017.03 - 2021.08*, Undergraduate, Chung-Ang University.
+- *2022.03 - Present*, Joint M.S. & Ph.D. in Electrical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, South Korea.
+- *2017.03 - 2021.08*, B.S in Physics and B.E. in Electrical and Electronic Engineering, Chung-Ang University, Seoul, South Korea.
+  - *Summa Cum Laude*
 
 # 🫡 Academic Services
 - Conference Reviewer: ACCV
