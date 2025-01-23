@@ -49,7 +49,7 @@ Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and M
 
 [Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *<span style="color: gray;">(under-review)</span>*
 
-Hyunwoo Ha\*, __**Oh Hyun-Bin\***__, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Hyunwoo Ha\*, **<U>Oh Hyun-Bin\*<U>**, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 **Project**
 - We magnify invisible small motions, but in real-time.
@@ -79,7 +79,7 @@ Kim Sung-Bin\*, **__Oh Hyun-Bin__\***, JungMok Lee, Arda Senocak, Joon Son Chung
 
 [Learning-based Axial Video Motion Magnification](https://arxiv.org/abs/2312.09551)
 
-Kwon Byung-Ki, __**Oh Hyun-Bin**__, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
+Kwon Byung-Ki, **__Oh Hyun-Bin__**, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 
 [**Project**](https://axial-momag.github.io/axial-momag/)
 - We magnify invisible small motions, but in user-specified directions.
@@ -92,7 +92,7 @@ Kwon Byung-Ki, __**Oh Hyun-Bin**__, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 
 [Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert](https://arxiv.org/abs/2407.01034)
 
-Han EunGi\*, __**Oh Hyun-Bin\***__, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Han EunGi\*, **__Oh Hyun-Bin__\***, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 [**Project**](https://3d-talking-head-avguide.github.io/)
 - We generate speech-synchronized lip movements in 3D facial animation with audio-visual lip reading expert.
@@ -104,7 +104,7 @@ Han EunGi\*, __**Oh Hyun-Bin\***__, Kim Sung-Bin, Corentin Nivelet Etcheberry, S
 
 [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset](https://arxiv.org/abs/2406.14272)
 
-Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, __**Oh Hyun-Bin**__, JangHoon Ju, Suekyeong Nam, Tae-Hyun Oh
+Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, **__Oh Hyun-Bin__**, JangHoon Ju, Suekyeong Nam, Tae-Hyun Oh
 
 [**Project**](https://multi-talk.github.io/)
 - We generate accurate 3D talking heads from multilingual speech.
@@ -116,7 +116,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, __**Oh Hyun-Bin**__, JangHoon Ju, 
 
 [Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
 
-Kim Ji-Yeon, __**Oh Hyun-Bin**__, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
+Kim Ji-Yeon, **__Oh Hyun-Bin__**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 
 [**Project**](https://jiyeon-k1m.github.io/uni-dvps)
 - We present Uni-DVPS, a unified multi-task model for Depth-aware Video Panoptic Segmentation (DVPS).
