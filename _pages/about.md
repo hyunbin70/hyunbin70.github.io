@@ -66,7 +66,7 @@ Hyunwoo Ha\*, __**Oh Hyun-Bin\***__, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin,
 
 [AVHBench: A Cross-Modal Hallucination Evluation for Audio-Visual Large Language Models](https://openreview.net/pdf?id=jTEKTdI3K9)
 
-Kim Sung-Bin\*, __**Oh Hyun-Bin\***__, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Kim Sung-Bin\*, **__Oh Hyun-Bin__\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 [**Project**](https://github.com/AVHBench/AVHBench)
 - We introduce a comprehensive benchmark specifically designed to evaluate the perception and comprehension capabilities of audio-visual LLMs.
