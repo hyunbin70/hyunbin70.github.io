@@ -31,7 +31,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 - *2024.06*: Two papers have been accepted to **INTERSPEECH 2024**.
 - *2024.04*: One paper has been accepted to **RA-L 2024**. This will be presented in **IROS 2024** <span style="color: red;">(oral presentation)</span>.
 
-# 📝 Pre-print (*:equal contribution/co-first author)
+# 📝 Pre-print
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +49,7 @@ Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and M
 
 [Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *<span style="color: gray;">(under-review)</span>*
 
-Hyunwoo Ha\*, _**Oh Hyun-Bin\***_, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh
+Hyunwoo Ha\*, __**Oh Hyun-Bin\***__, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 **Project**
 - We magnify invisible small motions, but in real-time.
@@ -59,14 +59,14 @@ Hyunwoo Ha\*, _**Oh Hyun-Bin\***_, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, L
 </div>
 
 
-# 📝 Publications (*:equal contribution/co-first author)
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/avh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AVHBench: A Cross-Modal Hallucination Evluation for Audio-Visual Large Language Models](https://openreview.net/pdf?id=jTEKTdI3K9)
 
-Kim Sung-Bin\*, _**Oh Hyun-Bin\***_, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh
+Kim Sung-Bin\*, __**Oh Hyun-Bin\***__, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 [**Project**](https://github.com/AVHBench/AVHBench)
 - We introduce a comprehensive benchmark specifically designed to evaluate the perception and comprehension capabilities of audio-visual LLMs.
@@ -79,7 +79,7 @@ Kim Sung-Bin\*, _**Oh Hyun-Bin\***_, JungMok Lee, Arda Senocak, Joon Son Chung, 
 
 [Learning-based Axial Video Motion Magnification](https://arxiv.org/abs/2312.09551)
 
-Kwon Byung-Ki, _**Oh Hyun-Bin**_, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
+Kwon Byung-Ki, __**Oh Hyun-Bin**__, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 
 [**Project**](https://axial-momag.github.io/axial-momag/)
 - We magnify invisible small motions, but in user-specified directions.
@@ -92,7 +92,7 @@ Kwon Byung-Ki, _**Oh Hyun-Bin**_, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 
 [Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert](https://arxiv.org/abs/2407.01034)
 
-Han EunGi\*, _**Oh Hyun-Bin\***_, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh
+Han EunGi\*, __**Oh Hyun-Bin\***__, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
 
 [**Project**](https://3d-talking-head-avguide.github.io/)
 - We generate speech-synchronized lip movements in 3D facial animation with audio-visual lip reading expert.
@@ -104,7 +104,7 @@ Han EunGi\*, _**Oh Hyun-Bin\***_, Kim Sung-Bin, Corentin Nivelet Etcheberry, Sue
 
 [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset](https://arxiv.org/abs/2406.14272)
 
-Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, _**Oh Hyun-Bin**_, JangHoon Ju, Suekyeong Nam, Tae-Hyun Oh
+Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, __**Oh Hyun-Bin**__, JangHoon Ju, Suekyeong Nam, Tae-Hyun Oh
 
 [**Project**](https://multi-talk.github.io/)
 - We generate accurate 3D talking heads from multilingual speech.
@@ -116,7 +116,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, _**Oh Hyun-Bin**_, JangHoon Ju, Su
 
 [Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
 
-Kim Ji-Yeon, _**Oh Hyun-Bin**_, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
+Kim Ji-Yeon, __**Oh Hyun-Bin**__, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 
 [**Project**](https://jiyeon-k1m.github.io/uni-dvps)
 - We present Uni-DVPS, a unified multi-task model for Depth-aware Video Panoptic Segmentation (DVPS).
