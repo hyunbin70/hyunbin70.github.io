@@ -49,7 +49,7 @@ Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and M
 
 [Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *<span style="color: gray;">(under-review)</span>*
 
-Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh (*: equal contribution)
 
 **Project**
 - We magnify invisible small motions, but in real-time.
@@ -66,7 +66,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 [AVHBench: A Cross-Modal Hallucination Evluation for Audio-Visual Large Language Models](https://openreview.net/pdf?id=jTEKTdI3K9)
 
-Kim Sung-Bin\*, **<U>Oh Hyun-Bin</U>\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Kim Sung-Bin\*, **<U>Oh Hyun-Bin</U>\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh (*: equal contribution)
 
 [**Project**](https://github.com/AVHBench/AVHBench)
 - We introduce a comprehensive benchmark specifically designed to evaluate the perception and comprehension capabilities of audio-visual LLMs.
@@ -92,7 +92,7 @@ Kwon Byung-Ki, **<U>Oh Hyun-Bin</U>**, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh
 
 [Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert](https://arxiv.org/abs/2407.01034)
 
-Han EunGi\*, **<U>Oh Hyun-Bin</U>\***, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh <span style="color: red;">(*: equal contribution)</span>
+Han EunGi\*, **<U>Oh Hyun-Bin</U>\***, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh (*: equal contribution)
 
 [**Project**](https://3d-talking-head-avguide.github.io/)
 - We generate speech-synchronized lip movements in 3D facial animation with audio-visual lip reading expert.
