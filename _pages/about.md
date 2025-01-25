@@ -114,7 +114,7 @@ Kim Sung-Bin\*, Lee Chae-Yeon\*, Gihun Son\*, **<U>Oh Hyun-Bin</U>**, JangHoon J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/Uni-DVPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
+[J1] [Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation](https://ieeexplore.ieee.org/document/10517661)
 
 Kim Ji-Yeon, **<U>Oh Hyun-Bin</U>**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh
 
