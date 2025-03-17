@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at [AMILAB](https://ami.postech.ac.kr/) in Electrial Engineering at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh). I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
+I am a Ph.D. student at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh). I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
 I work on research projects at the intersection of computer vision and machine learning, with a focus on modalities that contain temporal information, such as video and audio.
 
 My research interests are on multi-modal learning, especially within **audio-visual understanding and generation**, but not limited to.
@@ -26,23 +26,13 @@ My research interests are on multi-modal learning, especially within **audio-vis
 
 
 # 🔥 News
+- *2025.02*: One paper has been accepted to **CVPR 2025**.
 - *2025.01*: One paper has been accepted to **ICLR 2025**. 
 - *2024.07*: One paper has been accepted to **ECCV 2024**. 
 - *2024.06*: Two papers have been accepted to **INTERSPEECH 2024**.
 - *2024.04*: One paper has been accepted to **RA-L 2024**. This will be presented in **IROS 2024** <span style="color: red;">(oral presentation)</span>.
 
 # 📝 Pre-print
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[P2] Speech-Driven 3D Talking Head Generation: New Definitions, Representation, and Metrics *<span style="color: gray;">(under-review)</span>*
-
-**Project** 
-- We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for accurate 3D talking face generation.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +51,19 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C5] [Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics](https://ami.kaist.ac.kr/1a8fdae6-c854-8054-8477-f3854a73f274)
+
+Lee Chae-Yeon\*, **<U>Oh Hyun-Bin</U>\***, Han EunGi, Kim Sung-Bin, Suekyeong Nam, Tae-Hyun Oh (*: equal contribution)
+
+[**Project**](https://perceptual-3d-talking-head.github.io/)
+- We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for perceptually accurate 3D talking face generation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/avh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +71,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 Kim Sung-Bin\*, **<U>Oh Hyun-Bin</U>\***, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh (*: equal contribution)
 
-[**Project**](https://github.com/AVHBench/AVHBench)
+[**Project**](https://avhbench.github.io/)
 - We introduce a comprehensive benchmark specifically designed to evaluate the perception and comprehension capabilities of audio-visual LLMs.
 </div>
 </div>
@@ -129,6 +132,7 @@ Kim Ji-Yeon, **<U>Oh Hyun-Bin</U>**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025*: Best Paper Award, IPIU
 - *2024*: Best Paper Award, KRoC
 - *2023*: Best Paper Award, IPIU
 - *2021*: Summa Cum Laude, Chung-Ang University
