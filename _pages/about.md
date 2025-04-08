@@ -26,8 +26,8 @@ My research interests are on multi-modal learning, especially within **audio-vis
 
 
 # 🔥 News
-- *2025.07*: I'll be joining [Sony AI](https://ai.sony/), Tokyo, as a research scientist intern. 
-- *2025.02*: One paper has been accepted to **CVPR 2025 <span style="color: red;">Highlight (Top 3.7%)</span>**.
+- *2025.07*: I'll start research scientist internship at [Sony AI](https://ai.sony/), Tokyo.
+- *2025.02*: One paper has been accepted to **CVPR 2025** <span style="color: red;">Highlight (Top 3.7%)</span>.
 - *2025.01*: One paper has been accepted to **ICLR 2025**. 
 - *2024.07*: One paper has been accepted to **ECCV 2024**. 
 - *2024.06*: Two papers have been accepted to **INTERSPEECH 2024**.
