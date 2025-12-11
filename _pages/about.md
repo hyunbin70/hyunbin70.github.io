@@ -165,8 +165,8 @@ Kim Ji-Yeon, **<U>Oh Hyun-Bin</U>**, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae
   - *Summa Cum Laude*
 
 # 🫡 Academic Services
-- Conference Reviewer: ACCV
-- Journal Reviewer: IJCV
+- Conference Reviewer: ACCV, CVPR
+- Journal Reviewer: IJCV, Pattern Recognition
 
 # 🧑‍🏫 Teaching Experiences
 - *2023*, NAVER Boostcamp AI Tech Computer Vision Track (5th, 6th)
