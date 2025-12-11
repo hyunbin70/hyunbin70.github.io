@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh). I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
+I am a Ph.D. student at [POSTECH](https://postech.ac.kr/eng/), advised by [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh). 
+I am also a research scientist intern at [Sony AI](https://ai.sony/), advised by [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/) and [Toshimitsu Uesaka](https://ai.sony/people/Toshimitsu-Uesaka/).
+I received my bachelor's degrees in Physics and Electrical Engineering (Double major) from Chung-Ang University.
 I work on research projects at the intersection of computer vision and machine learning, with a focus on modalities that contain temporal information, such as video and audio.
 
 My research interests are on multi-modal learning, especially within **audio-visual understanding and generation**, but not limited to.
@@ -34,6 +36,21 @@ My research interests are on multi-modal learning, especially within **audio-vis
 - *2024.04*: One paper has been accepted to **RA-L 2024**. This will be presented in **IROS 2024** <span style="color: red;">(Oral presentation)</span>.
 
 # 📝 Pre-print
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/teaser_pavas_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P2] [PAVAS: Physics-Aware Video-to-Audio Synthesis](https://arxiv.org/abs/2512.08282) *<span style="color: gray;">(under-review)</span>*
+
+**<U>Oh Hyun-Bin</U>**, Yuhta Takida, Toshimitsu Uesaka, Tae-Hyun Oh, Yuki Mitsufuji
+
+[**Project**](https://physics-aware-video-to-audio-synthesis.github.io/)
+- We generate a physically plausible audio from a video, by explicitly integrating physics estimation into a latent diffusion-based model.
+- Work done during an internship at Sony AI.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +78,7 @@ Lee Chae-Yeon\*, **<U>Oh Hyun-Bin</U>\***, Han EunGi, Kim Sung-Bin, Suekyeong Na
 
 [**Project**](https://perceptual-3d-talking-head.github.io/)
 - We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for perceptually accurate 3D talking face generation.
-- Selected as a <span style="color: red;">highlight (top 3.7%)</span>.
+- Selected as a <span style="color: red;">highlight (top 3.7%) with all strong accept 5,5,5 scores </span>.
 </div>
 </div>
 
