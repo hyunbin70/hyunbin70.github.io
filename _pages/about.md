@@ -28,6 +28,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 
 
 # 🔥 News
+- *2026.02*: One paper has been accepted to **CVPR 2026**. 
 - *2025.07*: I'll start a research scientist internship at [Sony AI](https://ai.sony/), Tokyo.
 - *2025.02*: One paper has been accepted to **CVPR 2025** <span style="color: red;">Highlight (Top 3.7%)</span>.
 - *2025.01*: One paper has been accepted to **ICLR 2025**. 
@@ -36,21 +37,6 @@ My research interests are on multi-modal learning, especially within **audio-vis
 - *2024.04*: One paper has been accepted to **RA-L 2024**. This will be presented in **IROS 2024** <span style="color: red;">(Oral presentation)</span>.
 
 # 📝 Pre-print
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/teaser_pavas_homepage.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[P2] [PAVAS: Physics-Aware Video-to-Audio Synthesis](https://arxiv.org/abs/2512.08282) *<span style="color: gray;">(under-review)</span>*
-
-**<U>Oh Hyun-Bin</U>**, Yuhta Takida, Toshimitsu Uesaka, Tae-Hyun Oh, Yuki Mitsufuji
-
-[**Project**](https://physics-aware-video-to-audio-synthesis.github.io/)
-- We generate a physically plausible audio from a video, by explicitly integrating physics estimation into a latent diffusion-based model.
-- Work done during an internship at Sony AI.
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,6 +54,20 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/teaser_pavas_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C6] [PAVAS: Physics-Aware Video-to-Audio Synthesis](https://arxiv.org/abs/2512.08282)
+
+**<U>Oh Hyun-Bin</U>**, Yuhta Takida, Toshimitsu Uesaka, Tae-Hyun Oh, Yuki Mitsufuji
+
+[**Project**](https://physics-aware-video-to-audio-synthesis.github.io/)
+- We generate a physically plausible audio from a video, by explicitly integrating physics estimation into a latent diffusion-based model.
+- Work done during an internship at Sony AI.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/lip_sync.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
