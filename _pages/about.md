@@ -48,7 +48,6 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 **Project**
 - We magnify invisible small motions, but in real-time.
 - Short version at **CVPRW 2023** ‘Vision-based InduStrial InspectiON’ Workshop.
-- Selected as an <span style="color: red;">oral presentation </span>.
 
 </div>
 </div>
@@ -66,6 +65,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 [**Project**](https://physics-aware-video-to-audio-synthesis.github.io/)
 - We generate a physically plausible audio from a video, by explicitly integrating physics estimation into a latent diffusion-based model.
 - Work done during an internship at Sony AI.
+- Selected as an <span style="color: red;">oral presentation </span>.
 
 </div>
 </div>
