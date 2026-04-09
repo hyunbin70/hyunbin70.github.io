@@ -28,7 +28,7 @@ My research interests are on multi-modal learning, especially within **audio-vis
 
 
 # 🔥 News
-- *2026.02*: One paper has been accepted to **CVPR 2026**. 
+- *2026.02*: One paper has been accepted to **CVPR 2026** <span style="color: red;">Oral presentation</span>. 
 - *2025.07*: I'll start a research scientist internship at [Sony AI](https://ai.sony/), Tokyo.
 - *2025.02*: One paper has been accepted to **CVPR 2025** <span style="color: red;">Highlight (Top 3.7%)</span>.
 - *2025.01*: One paper has been accepted to **ICLR 2025**. 
@@ -48,6 +48,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 **Project**
 - We magnify invisible small motions, but in real-time.
 - Short version at **CVPRW 2023** ‘Vision-based InduStrial InspectiON’ Workshop.
+- Selected as an <span style="color: red;">oral presentation </span>.
 
 </div>
 </div>
