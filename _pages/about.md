@@ -64,8 +64,8 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 [**Project**](https://physics-aware-video-to-audio-synthesis.github.io/)
 - We generate a physically plausible audio from a video, by explicitly integrating physics estimation into a latent diffusion-based model.
-- Work done during an internship at Sony AI.
-- Selected as an <span style="color: red;">oral presentation </span>.
+- <span style="color: #00AEEF;">Work done during an internship at Sony AI<span style="color: #00AEEF;">.
+- Selected as an <span style="color: red;">oral presentation</span>.
 
 </div>
 </div>
@@ -79,7 +79,7 @@ Lee Chae-Yeon\*, **<U>Oh Hyun-Bin</U>\***, Han EunGi, Kim Sung-Bin, Suekyeong Na
 
 [**Project**](https://perceptual-3d-talking-head.github.io/)
 - We introduce novel definitions, a speech-mesh representation space, and evaluation metrics for perceptually accurate 3D talking face generation.
-- Selected as a <span style="color: red;">highlight (top 3.7%) with all strong accept 5,5,5 scores </span>.
+- Selected as a <span style="color: red;">highlight (top 3.7%) with all strong accept 5,5,5 scores</span>.
 </div>
 </div>
 
