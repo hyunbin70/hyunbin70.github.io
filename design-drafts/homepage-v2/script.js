@@ -6,7 +6,10 @@ const themeMedia = window.matchMedia("(prefers-color-scheme: dark)");
 const applyFilter = (filter) => {
   publications.forEach((publication) => {
     const isSelected = publication.classList.contains("selected");
-    publication.classList.toggle("hidden", filter === "selected" && !isSelected);
+    const shouldHide = filter === "selected" && !isSelected;
+
+    publication.classList.toggle("hidden", shouldHide);
+    publication.hidden = shouldHide;
   });
 };
 
