@@ -750,15 +750,18 @@ a.btn:hover {
   }
 
   .news li {
-    display: grid;
-    grid-template-columns: 62px minmax(0, 1fr);
-    gap: 8px;
+    padding-left: 70px;
+    text-indent: -70px;
     margin: 5px 0;
+    overflow: visible;
   }
 
   .news span {
+    display: inline-block;
+    width: 62px;
     color: var(--label);
     font-size: 12px;
+    text-indent: 0;
     white-space: nowrap;
   }
 
@@ -786,9 +789,15 @@ a.btn:hover {
   }
 
   .pub-media img {
-    width: min(100%, 300px);
-    max-height: 170px;
+    width: min(100%, 320px);
+    height: auto;
+    max-height: none;
+    aspect-ratio: auto;
     margin: 4px auto 7px;
+  }
+
+  .pub-media img.wide-teaser {
+    width: 100%;
   }
 
   .pub-body,
