@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hyun-Bin Oh</title>
+  <meta name="description" content="Hyun-Bin Oh is a Ph.D. candidate at POSTECH working on computer vision and multimodal machine learning.">
+  <base href="design-drafts/homepage-v2/">
+  <script>
+    (() => {
+      try {
+        const savedTheme = localStorage.getItem("theme");
+        if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+      } catch (error) {}
+    })();
+  </script>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+  <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode"><i class="fa-regular fa-moon"></i><span>Dark mode</span></button>
+  <main class="container">
+    <header class="profile">
+      <img class="portrait" src="../../images/IMG_0468.png" alt="Hyun-Bin Oh">
+      <div class="profile-text">
+        <h1>Hyun-Bin Oh</h1>
+        <p class="subtitle">Ph.D. candidate at POSTECH</p>
+        <p class="links">
+          <a class="btn" href="mailto:hyunbinoh@postech.ac.kr"><i class="fa-regular fa-envelope"></i> Email</a> /
+          <a class="btn" href="CV_Hyun_Bin_Oh_2605.pdf"><i class="fa-regular fa-file-lines"></i> CV</a> /
+          <a class="btn" href="https://scholar.google.com/citations?user=-yAfZn4AAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a> /
+          <a class="btn" href="https://github.com/hyunbin70"><i class="fa-brands fa-github"></i> GitHub</a> /
+          <a class="btn" href="https://www.linkedin.com/in/hboh"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+        </p>
+        <p class="contact"><b>Contact</b>: hyunbinoh-AT-postech-DOT-ac-DOT-kr</p>
+        <p class="availability"><i class="fa-regular fa-calendar-check"></i><span>Research internships/collaborations welcome. Please feel free to reach out.</span></p>
+      </div>
+    </header>
+
+    <section id="about" class="section">
+      <h2>About Me</h2>
+      <p>
+        I am a Ph.D. candidate at <a href="https://postech.ac.kr/eng/">POSTECH</a>,
+        advised by Prof. <a href="https://ami.kaist.ac.kr/members/tae-hyun-oh">Tae-Hyun Oh</a>.
+        I am also a research scientist intern at <a href="https://ai.sony/">Sony AI</a>.
+      </p>
+      <p>
+        My research lies at the intersection of computer vision and machine learning,
+        with a focus on multimodal signals that evolve over time, such as video and audio.
+        I am especially interested in audio-visual understanding and generation.
+      </p>
+    </section>
+
+    <section id="news" class="section">
+      <h2>News</h2>
+      <ul class="news">
+        <li><span>2026.06</span> One paper has been accepted to <b>INTERSPEECH 2026</b>.</li>
+        <li><span>2026.02</span> One paper has been accepted to <b>CVPR 2026</b> as an <b class="mark">Oral presentation</b>.</li>
+        <li><span>2025.07</span> Started a research scientist internship at <a href="https://ai.sony/">Sony AI</a>, Tokyo.</li>
+        <li><span>2025.02</span> One paper has been accepted to <b>CVPR 2025</b> as a <b class="mark">Highlight</b>.</li>
+        <li><span>2025.01</span> One paper has been accepted to <b>ICLR 2025</b>.</li>
+        <li><span>2024.07</span> One paper has been accepted to <b>ECCV 2024</b>.</li>
+        <li><span>2024.06</span> Two papers have been accepted to <b>INTERSPEECH 2024</b>.</li>
+        <li><span>2024.04</span> One paper has been accepted to <b>RA-L 2024</b> and presented at <b>IROS 2024</b> as an oral presentation.</li>
+      </ul>
+    </section>
+
+    <section id="publications" class="section">
+      <div class="section-heading">
+        <h2>Publications</h2>
+        <div class="pub-filter" aria-label="Publication filters">
+          <button class="active" type="button" data-filter="selected">show selected</button>
+          <button type="button" data-filter="all">show all</button>
+        </div>
+      </div>
+      <p class="pub-note">* denotes equal contribution. † denotes co-corresponding authors.</p>
+
+      <article class="publication">
+        <div class="pub-media">
+          <img src="assets/images/avdeepfake.png" alt="Physics-aware deepfake detection teaser">
+        </div>
+        <div class="pub-body">
+          <h3>Physics-Aware Deepfake Detection via Distance–Speech Consistency</h3>
+          <p class="authors">Kyeongrae Kim, Kim Sung-Bin, <b>Oh Hyun-Bin</b>, Tae-Hyun Oh</p>
+          <p class="venue">INTERSPEECH 2026</p>
+          <details class="tldr">
+            <summary></summary>
+            We detect dynamic talking-head deepfakes by checking whether speech energy is physically consistent with speaker-to-camera distance, complementing lip-sync cues in in-the-wild videos.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication selected">
+        <div class="pub-media">
+          <img src="assets/images/st-audiolm.png" alt="Spatio-Temporal Audio Language Modeling teaser">
+        </div>
+        <div class="pub-body">
+          <h3>Spatio-Temporal Audio Language Modeling for Dynamic Sound Sources</h3>
+          <p class="authors"><b>Oh Hyun-Bin</b>, Kazuki Shimada, Yuhta Takida, Kim Sung-Bin, Toshimitsu Uesaka, Takashi Shibuya, Kyeongyoon Lee, Tae-Hyun Oh†, Yuki Mitsufuji†</p>
+          <p class="venue">Preprint</p>
+          <details class="tldr">
+            <summary></summary>
+            We enable audio-language models to reason about what is sounding, where it is, and how it moves over time from spatial audio.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication selected">
+        <a class="pub-media" href="https://physics-aware-video-to-audio-synthesis.github.io/">
+          <img src="../../images/teaser_pavas_homepage.png" alt="PAVAS teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2512.08282">PAVAS: Physics-Aware Video-to-Audio Synthesis</a></h3>
+          <p class="authors"><b>Oh Hyun-Bin</b>, Yuhta Takida, Toshimitsu Uesaka, Tae-Hyun Oh, Yuki Mitsufuji</p>
+          <p class="venue">CVPR 2026 <span>Oral presentation</span></p>
+          <p class="pub-links paper-related">
+            <a href="https://arxiv.org/abs/2512.08282">Paper</a>
+            <a href="https://physics-aware-video-to-audio-synthesis.github.io/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We generate physically plausible audio from a video by explicitly integrating physics estimation into a latent diffusion-based model.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication selected">
+        <a class="pub-media" href="https://perceptual-3d-talking-head.github.io/">
+          <img src="../../images/lip_sync.png" alt="Perceptually accurate 3D talking head teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://ami.kaist.ac.kr/1a8fdae6-c854-8054-8477-f3854a73f274">Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics</a></h3>
+          <p class="authors">Lee Chae-Yeon*, <b>Oh Hyun-Bin*</b>, Han EunGi, Kim Sung-Bin, Suekyeong Nam, Tae-Hyun Oh</p>
+          <p class="venue">CVPR 2025 <span>Highlight</span></p>
+          <p class="pub-links paper-related">
+            <a href="https://ami.kaist.ac.kr/1a8fdae6-c854-8054-8477-f3854a73f274">Paper</a>
+            <a href="https://perceptual-3d-talking-head.github.io/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We introduce new definitions, a speech-mesh representation space, and evaluation metrics for perceptually accurate 3D talking face generation.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication selected">
+        <a class="pub-media" href="https://avhbench.github.io/">
+          <img src="../../images/avh.png" alt="AVHBench teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://openreview.net/pdf?id=jTEKTdI3K9">AVHBench: A Cross-Modal Hallucination Evaluation for Audio-Visual Large Language Models</a></h3>
+          <p class="authors">Kim Sung-Bin*, <b>Oh Hyun-Bin*</b>, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh</p>
+          <p class="venue">ICLR 2025</p>
+          <p class="pub-links paper-related">
+            <a href="https://openreview.net/pdf?id=jTEKTdI3K9">Paper</a>
+            <a href="https://avhbench.github.io/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We introduce a benchmark for evaluating the perception and comprehension capabilities of audio-visual large language models.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication">
+        <a class="pub-media" href="https://axial-momag.github.io/axial-momag/">
+          <img src="../../images/axial_mm.png" alt="Axial video motion magnification teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2312.09551">Learning-based Axial Video Motion Magnification</a></h3>
+          <p class="authors">Kwon Byung-Ki, <b>Oh Hyun-Bin</b>, Kim Jun-Seong, Hyunwoo Ha, Tae-Hyun Oh</p>
+          <p class="venue">ECCV 2024</p>
+          <p class="pub-links paper-related">
+            <a href="https://arxiv.org/abs/2312.09551">Paper</a>
+            <a href="https://axial-momag.github.io/axial-momag/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We magnify invisible small motions in user-specified directions.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication">
+        <a class="pub-media" href="https://arxiv.org/abs/2407.01034">
+          <img src="../../images/av_guidance.png" alt="Audio-visual guidance teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2407.01034">Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert</a></h3>
+          <p class="authors">Han EunGi*, <b>Oh Hyun-Bin*</b>, Kim Sung-Bin, Corentin Nivelet Etcheberry, Suekyeong Nam, JangHoon Ju, Tae-Hyun Oh</p>
+          <p class="venue">INTERSPEECH 2024</p>
+          <p class="pub-links paper-related">
+            <a href="https://arxiv.org/abs/2407.01034">Paper</a>
+            <a href="https://3d-talking-head-avguide.github.io/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We generate speech-synchronized lip movements in 3D facial animation with an audio-visual lip reading expert.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication">
+        <a class="pub-media" href="https://multi-talk.github.io/">
+          <img src="../../images/multitalk.png" alt="MultiTalk teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2406.14272">MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset</a></h3>
+          <p class="authors">Kim Sung-Bin*, Lee Chae-Yeon*, Gihun Son*, <b>Oh Hyun-Bin</b>, JangHoon Ju, Suekyeong Nam, Tae-Hyun Oh</p>
+          <p class="venue">INTERSPEECH 2024</p>
+          <p class="pub-links paper-related">
+            <a href="https://arxiv.org/abs/2406.14272">Paper</a>
+            <a href="https://multi-talk.github.io/">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We generate accurate 3D talking heads from multilingual speech.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication">
+        <a class="pub-media" href="https://jiyeon-k1m.github.io/uni-dvps">
+          <img src="../../images/Uni-DVPS.png" alt="Uni-DVPS teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://ieeexplore.ieee.org/document/10517661">Uni-DVPS: Unified Model for Depth-Aware Video Panoptic Segmentation</a></h3>
+          <p class="authors">Kim Ji-Yeon, <b>Oh Hyun-Bin</b>, Kwon Byung-Ki, Dahun Kim, Yongjin Kwon, Tae-Hyun Oh</p>
+          <p class="venue">RA-L 2024 <span>IROS Oral</span></p>
+          <p class="pub-links paper-related">
+            <a href="https://ieeexplore.ieee.org/document/10517661">Paper</a>
+            <a href="https://jiyeon-k1m.github.io/uni-dvps">Project Page</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We present a unified multi-task model for depth-aware video panoptic segmentation.
+          </details>
+        </div>
+      </article>
+
+      <article class="publication">
+        <a class="pub-media" href="https://arxiv.org/abs/2403.01898">
+          <img src="../../images/real_mm.png" alt="Real-time video motion magnification teaser">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2403.01898">Revisiting Learning-based Video Motion Magnification for Real-time Processing</a></h3>
+          <p class="authors">Hyunwoo Ha*, <b>Oh Hyun-Bin*</b>, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh</p>
+          <p class="venue">Preprint</p>
+          <p class="pub-links paper-related">
+            <a href="https://arxiv.org/abs/2403.01898">Paper</a>
+          </p>
+          <details class="tldr">
+            <summary></summary>
+            We magnify invisible small motions in real time.
+          </details>
+        </div>
+      </article>
+    </section>
+
+    <section id="experience" class="section">
+      <h2>Experience</h2>
+      <article class="experience">
+        <a class="logo" href="https://ai.sony/">
+          <img src="assets/images/sony-ai-logo.svg" alt="Sony AI logo">
+        </a>
+        <div>
+          <h3>Research Scientist Intern</h3>
+          <p>Sony AI</p>
+          <p>Jul 2025 - Present</p>
+          <ul>
+            <li>Hosts (Deep Generative Modeling Team): <a href="https://ai.sony/people/Yuhta-Takida/">Yuhta Takida</a>, <a href="https://ai.sony/people/Toshimitsu-Uesaka/">Toshimitsu Uesaka</a>, and <a href="https://www.yukimitsufuji.com/">Yuki Mitsufuji</a></li>
+            <li>Hosts (Cinematic Technology Team): <a href="https://scholar.google.com/citations?user=-t9IslAAAAAJ&hl=ja">Kazuki Shimada</a>, <a href="https://ai.sony/people/takashi-shibuya">Takashi Shibuya</a>, and <a href="https://www.yukimitsufuji.com/">Yuki Mitsufuji</a></li>
+          </ul>
+        </div>
+      </article>
+    </section>
+
+    <section id="education" class="section">
+      <h2>Education</h2>
+      <ul class="plain-list">
+        <li><span>2022.03 - Present</span> Integrated Ph.D. in Electrical Engineering, POSTECH, Pohang, South Korea</li>
+        <li>
+          <span>2017.03 - 2021.08</span>
+          <div>
+            B.S. in Physics and B.E. in Electrical Engineering, Chung-Ang University, Seoul, South Korea
+            <div class="education-note">Summa Cum Laude</div>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="honors" class="section">
+      <h2>Honors and Awards</h2>
+      <ul class="plain-list">
+        <li><span>2025</span> Best Paper Award, IPIU</li>
+        <li><span>2024</span> Best Paper Award, KRoC</li>
+        <li><span>2023</span> Best Paper Award, IPIU</li>
+        <li><span>2021</span> Summa Cum Laude, Chung-Ang University</li>
+        <li><span>2021</span> Department Honors Scholarship (ranked 1st in the department), Chung-Ang University</li>
+        <li><span>2018</span> Science Scholarship, Suwon Municipal Scholarship Foundation</li>
+        <li><span>2017</span> Department Honors Scholarship (ranked 1st in the department), Chung-Ang University</li>
+      </ul>
+    </section>
+
+    <section id="service" class="section">
+      <h2>Academic Services</h2>
+      <ul class="plain-list">
+        <li><span>Reviewer</span> ACCV, CVPR, NeurIPS, SIGGRAPH Asia, IJCV, Pattern Recognition</li>
+      </ul>
+    </section>
+
+    <section id="teaching" class="section">
+      <h2>Teaching Experiences</h2>
+      <ul class="plain-list">
+        <li><span>2023</span> NAVER Boostcamp AI Tech Computer Vision Track (5th, 6th)</li>
+        <li><span>2022</span> Introduction to Machine Learning (EECE454), POSTECH</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <p>(c) 2026 Hyun-Bin Oh. Website template from Nicklas Hansen.</p>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
