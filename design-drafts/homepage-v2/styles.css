@@ -656,6 +656,10 @@ a.btn:hover {
 }
 
 @media only screen and (max-width: 600px) {
+  body {
+    font-size: 10.5px;
+  }
+
   .container {
     width: min(100% - 28px, 890px);
     margin-top: 22px;
@@ -668,14 +672,14 @@ a.btn:hover {
   }
 
   .profile h1 {
-    font-size: 28px;
+    font-size: 22.5px;
     line-height: 1.12;
   }
 
   .subtitle,
   .links,
   .contact {
-    font-size: 12.5px;
+    font-size: 10px;
   }
 
   .links {
@@ -687,14 +691,14 @@ a.btn:hover {
   a.btn {
     margin: 0 1px;
     padding: 1px 3px;
-    font-size: 12.5px;
+    font-size: 10px;
   }
 
   .availability {
     max-width: 320px;
     align-items: flex-start;
     padding: 6px 8px;
-    font-size: 11px;
+    font-size: 9px;
     text-align: left;
   }
 
@@ -708,11 +712,11 @@ a.btn:hover {
 
   .section h2,
   .section-heading {
-    font-size: 19px;
+    font-size: 15px;
   }
 
   .section > p {
-    font-size: 13px;
+    font-size: 10.5px;
     line-height: 1.55;
   }
 
@@ -733,14 +737,14 @@ a.btn:hover {
 
   .pub-filter button {
     padding: 3px 7px;
-    font-size: 12px;
+    font-size: 9.5px;
     white-space: nowrap;
   }
 
   .news,
   .plain-list,
   .experience ul {
-    font-size: 13px;
+    font-size: 10.5px;
     line-height: 1.45;
   }
 
@@ -760,7 +764,7 @@ a.btn:hover {
     display: inline-block;
     width: 62px;
     color: var(--label);
-    font-size: 12px;
+    font-size: 9.5px;
     text-indent: 0;
     white-space: nowrap;
   }
@@ -807,31 +811,31 @@ a.btn:hover {
 
   .pub-body h3,
   .experience h3 {
-    font-size: 15px;
+    font-size: 12px;
     line-height: 1.32;
   }
 
   .authors,
   .venue,
   .pub-links {
-    font-size: 12.5px;
+    font-size: 10px;
     line-height: 1.45;
   }
 
   .authors strong,
   .authors b {
-    font-size: 12.5px;
+    font-size: 10px;
   }
 
   .pub-note,
   .tldr {
-    font-size: 12px;
+    font-size: 9.5px;
     line-height: 1.45;
   }
 
   .paper-related a {
     padding: 1px 7px;
-    font-size: 11px;
+    font-size: 9px;
   }
 
   .logo img {
@@ -841,7 +845,7 @@ a.btn:hover {
 
   .experience ul {
     padding-left: 16px;
-    font-size: 11px;
+    font-size: 9px;
     line-height: 1.35;
   }
 }
