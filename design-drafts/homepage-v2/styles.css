@@ -317,6 +317,23 @@ a.btn:hover {
   color: var(--text);
 }
 
+.news-toggle {
+  margin: 4px 0 0 19px;
+  padding: 0;
+  border: 0;
+  color: var(--label);
+  background: transparent;
+  font-family: "Lato", Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 18pt;
+  cursor: pointer;
+  transition: color 180ms ease;
+}
+
+.news-toggle:hover {
+  color: var(--link);
+}
+
 .plain-list span {
   display: block;
   color: var(--label);
@@ -767,6 +784,12 @@ a.btn:hover {
     font-size: 9.5px;
     text-indent: 0;
     white-space: nowrap;
+  }
+
+  .news-toggle {
+    margin-left: 0;
+    font-size: 9.5px;
+    line-height: 1.45;
   }
 
   .publication,

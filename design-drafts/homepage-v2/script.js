@@ -1,5 +1,7 @@
 const filterButtons = document.querySelectorAll("[data-filter]");
 const publications = document.querySelectorAll(".publication");
+const newsToggle = document.querySelector("[data-news-toggle]");
+const extraNewsItems = document.querySelectorAll(".news-extra");
 const themeToggle = document.querySelector("[data-theme-toggle]");
 const themeMedia = window.matchMedia("(prefers-color-scheme: dark)");
 
@@ -21,6 +23,25 @@ filterButtons.forEach((button) => {
 });
 
 applyFilter("selected");
+
+const setNewsExpanded = (isExpanded) => {
+  extraNewsItems.forEach((item) => {
+    item.hidden = !isExpanded;
+  });
+
+  if (newsToggle) {
+    newsToggle.setAttribute("aria-expanded", String(isExpanded));
+    newsToggle.textContent = isExpanded ? "show less" : "show more";
+  }
+};
+
+if (newsToggle && extraNewsItems.length) {
+  newsToggle.hidden = false;
+  newsToggle.addEventListener("click", () => {
+    setNewsExpanded(newsToggle.getAttribute("aria-expanded") !== "true");
+  });
+  setNewsExpanded(false);
+}
 
 const currentTheme = () => {
   return document.documentElement.dataset.theme || (themeMedia.matches ? "dark" : "light");
