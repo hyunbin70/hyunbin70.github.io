@@ -475,6 +475,7 @@ a.btn:hover {
 .venue {
   margin-top: 1pt;
   font-style: italic;
+  font-weight: 600;
 }
 
 .venue span {
