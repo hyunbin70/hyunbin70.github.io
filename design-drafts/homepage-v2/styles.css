@@ -461,7 +461,8 @@ a.btn:hover {
 
 .authors,
 .venue,
-.pub-links {
+.pub-links,
+.media-coverage {
   margin: 3pt 0 0;
   font-size: 14px;
   line-height: 18pt;
@@ -510,6 +511,16 @@ a.btn:hover {
   background: var(--button);
   text-decoration: none;
   transform: translateY(-1px);
+}
+
+.media-coverage {
+  margin-top: 5pt;
+  color: var(--label);
+  font-size: 13px;
+}
+
+.media-coverage a {
+  color: var(--link);
 }
 
 .tldr {
@@ -840,7 +851,8 @@ a.btn:hover {
 
   .authors,
   .venue,
-  .pub-links {
+  .pub-links,
+  .media-coverage {
     font-size: 10px;
     line-height: 1.45;
   }
