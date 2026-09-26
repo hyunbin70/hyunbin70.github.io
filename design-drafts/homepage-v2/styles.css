@@ -473,6 +473,14 @@ a.btn:hover {
   font-size: 14px;
 }
 
+.authors a {
+  color: inherit;
+}
+
+.authors a:hover {
+  color: var(--link);
+}
+
 .venue {
   margin-top: 1pt;
   font-style: italic;
