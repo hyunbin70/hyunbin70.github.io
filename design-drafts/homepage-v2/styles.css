@@ -287,8 +287,19 @@ a.btn:hover {
   margin: 3px 0;
 }
 
-.news span {
-  color: var(--text);
+.news li {
+  padding-left: 82px;
+  text-indent: -82px;
+}
+
+.news li > span {
+  display: inline-block;
+  width: 72px;
+  color: var(--label);
+  font-weight: 400;
+  text-indent: 0;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
 }
 
 .news-toggle {
@@ -758,7 +769,7 @@ a.btn:hover {
     overflow: visible;
   }
 
-  .news span {
+  .news li > span {
     display: inline-block;
     width: 62px;
     color: var(--label);
