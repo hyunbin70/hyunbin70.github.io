@@ -387,6 +387,10 @@ a.btn:hover {
   transition: border-color 180ms ease;
 }
 
+.publication.text-only {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .publication:first-of-type {
   border-top: 1px solid var(--line);
 }
@@ -446,6 +450,7 @@ a.btn:hover {
 
 .authors,
 .venue,
+.pub-description,
 .pub-links,
 .media-coverage {
   margin: 3pt 0 0;
@@ -832,6 +837,7 @@ a.btn:hover {
 
   .authors,
   .venue,
+  .pub-description,
   .pub-links,
   .media-coverage {
     font-size: 10px;
